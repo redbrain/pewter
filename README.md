@@ -5,7 +5,7 @@ They're the latest versions that can still view legacy Flash content on the web 
 **Please use a modern browser for all other purposes!**  
 ## download pewter
 *If you'd like to get straight to the downloads, click [here](https://github.com/redbrain/pewter/releases/latest).*  
-Releases are currently only available for Windows; Mac and Linux builds are coming soon.
+Releases are currently only available for Windows and Linux; Mac builds are coming soon.
 ## how pewter is created
 Pewter uses Chromium from the last stable version of Chromium 87 (Flash should be gone in v88).  
 The source of that build is [here](https://commondatastorage.googleapis.com/chromium-browser-snapshots/index.html?prefix=Win_x64/812845/).  
